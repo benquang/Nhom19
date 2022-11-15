@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Nhom19\Nhom19\bin\Debug\Nhom19.exe.config
+C:\Users\Admin\source\repos\Nhom19\Nhom19\bin\Debug\Nhom19.exe
+C:\Users\Admin\source\repos\Nhom19\Nhom19\bin\Debug\Nhom19.pdb
+C:\Users\Admin\source\repos\Nhom19\Nhom19\obj\Debug\Nhom19.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Nhom19\Nhom19\obj\Debug\Nhom19.Form1.resources
+C:\Users\Admin\source\repos\Nhom19\Nhom19\obj\Debug\Nhom19.Properties.Resources.resources
+C:\Users\Admin\source\repos\Nhom19\Nhom19\obj\Debug\Nhom19.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Nhom19\Nhom19\obj\Debug\Nhom19.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Nhom19\Nhom19\obj\Debug\Nhom19.exe
+C:\Users\Admin\source\repos\Nhom19\Nhom19\obj\Debug\Nhom19.pdb
